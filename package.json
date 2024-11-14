@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://aadedsh-kumarr.github.io/adi_found",
+  "homepage": "http://aadesh-kumarr.github.io/adi_found",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
