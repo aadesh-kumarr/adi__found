@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Full stack web developer student studying at DIET, RISHIKESH. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Full stack developer",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Multiple frameworks",
+  "Responsive Designs",
+  "Seamless Performance",
   "Graphic design",
+
 ];
 
 /**
@@ -45,8 +46,15 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  `Hello! I'm Aadesh Kumar, a Final Year B.Tech CSE Student with expertise in Python and Django. My focus is backend development, complemented by experience with Next.js for building dynamic, responsive apps.
 
+Outside of coding, I've organized college events like debates and coding quests, which enhanced my teamwork and leadership skills.
+
+I'm also passionate about tech education and run a YouTube channel on programming, where I share knowledge and engage with the tech community.
+
+My internship at Edureka provided valuable professional experience, helping me further develop my technical skills and industry insights.
+
+Let's connect and explore how we can create impactful digital solutions together!`
 const About = () => {
   return (
     <section className="padding" id="about">
